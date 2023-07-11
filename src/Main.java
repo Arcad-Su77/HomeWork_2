@@ -29,7 +29,7 @@ public class Main {
         System.out.println(".....");
         //Задание 8
         task8();
-
+        System.out.println("_________");
         System.out.println("Домашка закончилась. Всем спасибо, все свободны.");
     }
 
