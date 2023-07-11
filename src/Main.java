@@ -92,6 +92,9 @@ public class Main {
         frog = frog / 3.5;
         System.out.println("Делим на 3.5.");
         System.out.println("Frog = " + frog);
+        frog = frog - 4;
+        System.out.println("Вычетаем 4.");
+        System.out.println("Frog = " + frog);
     }
 
     private static void task4() {
